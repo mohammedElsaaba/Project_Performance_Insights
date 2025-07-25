@@ -4,8 +4,8 @@
 
 This Power BI project presents a detailed analysis of a **project portfolio** to identify patterns, challenges, and opportunities for improvement based on key metrics such as project status, cancellation rates, ROI, complexity, and performance by department and project manager.
 
-![Overview](./PBIDesktop_lPjRbXfacX.png)
-![Cancellation Analysis](./PBIDesktop_WaYx04K73u.png)
+![Overview](./Overview.png)
+![Cancellation Analysis](./CancellationAnalysis.png)
 
 ---
 
@@ -42,7 +42,7 @@ This Power BI project presents a detailed analysis of a **project portfolio** to
 ---
 
 ## Recommendations
-![Recommendations](./PBIDesktop_ozctGfNYZa.png)
+![Recommendations](./Recommendations.png)
 
 1. **Investigate Root Causes of Cancellations:**
    - Focus on early phases (Plan/Measure).
